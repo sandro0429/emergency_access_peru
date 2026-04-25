@@ -1,0 +1,1 @@
+# Static charts and maps
