@@ -5,3 +5,7 @@ seaborn
 streamlit
 pandas
 numpy
+shapely
+pyproj
+scipy
+openpyxl
