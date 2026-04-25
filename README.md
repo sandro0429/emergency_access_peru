@@ -1,2 +1,2 @@
 # emergency_access_peru
-This is the second assignment of the course
+Proyecto de análisis geoespacial sobre desigualdad en el acceso a la atención médica de emergencia en distritos del Perú.
